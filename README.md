@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**michaelvereb/michaelvereb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Michael Vereb
 
-Here are some ideas to get you started:
+<img src="https://github.com/michaelvereb.png" alt="Michael Vereb" width="160" style="border-radius: 50%; max-width: 100%;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Design engineer building high-converting websites w/ great AI SEO | user of [@google](https://x.com/google) [@openai](https://x.com/openai) [@claude](https://x.com/claude)
+
+https://www.michaelvereb.com
+
+![Vanilla JS](https://img.shields.io/badge/-Vanilla_JS-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Astro](https://img.shields.io/badge/-Astro-2b2b2b?style=flat-square&logo=astro&logoColor=FF5D01)
+![CSS3](https://img.shields.io/badge/-Vanilla_CSS-2b2b2b?style=flat-square&logo=css3&logoColor=1572B6)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-2b2b2b?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Figma](https://img.shields.io/badge/-Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E)
+![Directus](https://img.shields.io/badge/-Directus_CMS-2b2b2b?style=flat-square&logo=directus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
+![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)
+![Webflow](https://img.shields.io/badge/-Webflow-2b2b2b?style=flat-square&logo=webflow&logoColor=4353FF)
+
+[![Website](https://img.shields.io/badge/michaelvereb.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://www.michaelvereb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white)](https://www.michaelvereb.com/linkedin)
+[![X](https://img.shields.io/badge/X-2b2b2b?style=flat-square&logo=x&logoColor=white)](https://x.com/michael_vereb)
+[![Email](https://img.shields.io/badge/Email-2b2b2b?style=flat-square&logo=gmail&logoColor=white)](mailto:michael@vereb.ca)
+
+</div>
+
+Web and product designer who creates tools for AI SEO, search visibility, content extraction, and developer utilities.
+
+## Michael Vereb's Tools:
+
+- [Michael Vereb](https://www.michaelvereb.com) (https://www.michaelvereb.com): Portfolio showcasing examples of web design projects and software tools with technical case studies.
+- [llms-text](https://www.llms-text.com) (https://www.llms-text.com): A free web tool for generating standardized llms.txt files for agentic SEO.
+- [Referral Code Link](https://www.referralcodelink.com) (https://www.referralcodelink.com): Verified, manually-tested Canadian-based referral codes and referral links to get exclusive benefits.
+- [Copy Markdown](https://www.copymarkdown.md) (https://www.copymarkdown.md): A free Google Chrome extension for converting web pages into cleanly-formatted markdown (.md).
+- [AI Website Summarizer](https://www.aiwebsitesummarizer.com) (https://www.aiwebsitesummarizer.com): Add an AI prompt widget to any website, great for AI SEO, GEO and LLM mentions.
+- [FastMCP](https://www.fastmcp.dev) (https://www.fastmcp.dev): Open directory of Model Context Protocol (MCP v2) servers with instant 1-click connect for AI agents.
+- [Agent Audit AI](https://www.agentauditai.com) (https://www.agentauditai.com): Autonomous AI agent readiness, WebMCP tool schema diagnostics, and edge security audit engine.
+- [Blog Maker AI](https://www.blogmakerai.com) (https://www.blogmakerai.com): Automatic blog generator SEO that writes really good blogs with deep, SEO-rich content that uses your business’ persona.
+- [Carbon Accounting Software](https://www.carbonaccounting.software) (https://www.carbonaccounting.software): An industry index of Carbon Accounting Software tools.
+
+Connect with Michael Vereb on [LinkedIn](https://www.michaelvereb.com/linkedin) or visit [michaelvereb.com](https://www.michaelvereb.com)
+
+---
+
+## Details
+
+| Field | Information |
+|:---|:---|
+| **Scope** | Conversion Web Design, Product UI/UX Design, Design Systems, Technical AI SEO, Generative Engine Optimization (GEO) |
+| **Roles** | Website Designer & Builder, Design Engineer, Senior Product Designer, AI Designer, Growth Designer |
+| **Tools** | Figma, Webflow, Cloudflare Workers, Directus, Astro, Docker, Python, Go |
+| **Platform** | Cloudflare Edge (Workers, Pages, Zero Trust), Directus Headless CMS, Astro, Vanilla JS/CSS |
+| **Skills** | Product Design, User Interface (UI), User Experience (UX), Search Engine Optimization (SEO), Conversion Rate Optimization (CRO), Web Development |
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/michaelvereb)
+
+---
+
+## Job Titles
+
+`Website Designer & Builder` | `Design Engineer` | `Senior Product Designer` | `Product Designer` | `AI Designer` | `Growth Designer`
+
+---
+
+## Keywords
+
+`Design Engineering` · `Conversion Web Design` · `AI SEO & GEO` · `Cloudflare Edge` · `WebMCP` · `Technical SEO` · `Generative Engine Optimization` · `Directus CMS` · `Vanilla CSS`
