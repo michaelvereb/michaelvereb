@@ -2,22 +2,11 @@
 
 # Michael Vereb
 
-<img src="https://github.com/michaelvereb.png" alt="Michael Vereb" width="160" style="border-radius: 50%; max-width: 100%;" />
+<img src="https://www.michaelvereb.com/images/Michael-Vereb-Profile-Pic.png" alt="Michael Vereb" width="160" style="border-radius: 50%; max-width: 100%;" />
 
-Design engineer building high-converting websites w/ great AI SEO | user of [@google](https://x.com/google) [@openai](https://x.com/openai) [@claude](https://x.com/claude)
+🇨🇦 Design engineer building high-converting websites w/ great AI SEO
 
 https://www.michaelvereb.com
-
-![Vanilla JS](https://img.shields.io/badge/-Vanilla_JS-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Astro](https://img.shields.io/badge/-Astro-2b2b2b?style=flat-square&logo=astro&logoColor=FF5D01)
-![CSS3](https://img.shields.io/badge/-Vanilla_CSS-2b2b2b?style=flat-square&logo=css3&logoColor=1572B6)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-2b2b2b?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Figma](https://img.shields.io/badge/-Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E)
-![Directus](https://img.shields.io/badge/-Directus_CMS-2b2b2b?style=flat-square&logo=directus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
-![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)
-![Webflow](https://img.shields.io/badge/-Webflow-2b2b2b?style=flat-square&logo=webflow&logoColor=4353FF)
 
 [![Website](https://img.shields.io/badge/michaelvereb.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://www.michaelvereb.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white)](https://www.michaelvereb.com/linkedin)
@@ -46,28 +35,31 @@ Connect with Michael Vereb on [LinkedIn](https://www.michaelvereb.com/linkedin) 
 
 ## Details
 
-| Field | Information |
-|:---|:---|
-| **Scope** | Conversion Web Design, Product UI/UX Design, Design Systems, Technical AI SEO, Generative Engine Optimization (GEO) |
-| **Roles** | Website Designer & Builder, Design Engineer, Senior Product Designer, AI Designer, Growth Designer |
-| **Tools** | Figma, Webflow, Cloudflare Workers, Directus, Astro, Docker, Python, Go |
-| **Platform** | Cloudflare Edge (Workers, Pages, Zero Trust), Directus Headless CMS, Astro, Vanilla JS/CSS |
-| **Skills** | Product Design, User Interface (UI), User Experience (UX), Search Engine Optimization (SEO), Conversion Rate Optimization (CRO), Web Development |
+### Job Titles
+
+`Website Designer & Builder` | `Design Engineer` | `Senior Product Designer` | `Product Designer` | `AI Designer` | `Growth Designer`
+
+### Scope & Skills
+
+`Conversion Web Design` · `Product UI/UX Design` · `Design Systems` · `Technical AI SEO & GEO` · `Conversion Rate Optimization (CRO)` · `Web Development`
+
+### Platform, Stack & Tools
+
+`Cloudflare Edge (Workers & Pages)` · `Directus Headless CMS` · `Astro` · `Vanilla JS/CSS` · `Docker` · `Python` · `Go` · `Figma` · `Webflow`
+
+![Vanilla JS](https://img.shields.io/badge/-Vanilla_JS-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Astro](https://img.shields.io/badge/-Astro-2b2b2b?style=flat-square&logo=astro&logoColor=FF5D01)
+![CSS3](https://img.shields.io/badge/-Vanilla_CSS-2b2b2b?style=flat-square&logo=css3&logoColor=1572B6)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-2b2b2b?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Figma](https://img.shields.io/badge/-Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E)
+![Directus](https://img.shields.io/badge/-Directus_CMS-2b2b2b?style=flat-square&logo=directus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
+![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)
+![Webflow](https://img.shields.io/badge/-Webflow-2b2b2b?style=flat-square&logo=webflow&logoColor=4353FF)
 
 ---
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/michaelvereb)
-
----
-
-## Job Titles
-
-`Website Designer & Builder` | `Design Engineer` | `Senior Product Designer` | `Product Designer` | `AI Designer` | `Growth Designer`
-
----
-
-## Keywords
-
-`Design Engineering` · `Conversion Web Design` · `AI SEO & GEO` · `Cloudflare Edge` · `WebMCP` · `Technical SEO` · `Generative Engine Optimization` · `Directus CMS` · `Vanilla CSS`
