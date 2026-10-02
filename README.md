@@ -34,7 +34,6 @@ Connect with Michael Vereb on [LinkedIn](https://www.michaelvereb.com/linkedin) 
 ---
 
 ## Details
-
 ### Skills
 
 `Website Designer & Builder` | `Design Engineer` | `Senior Product Designer` | `Product Designer` | `AI Designer` | `Growth Designer` | `Conversion Web Design` | `Product UI/UX Design` | `Design Systems` | `Technical AI SEO & GEO` | `Conversion Rate Optimization (CRO)` | `Web Development`
