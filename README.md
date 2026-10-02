@@ -51,9 +51,3 @@ Connect with Michael Vereb on [LinkedIn](https://www.michaelvereb.com/linkedin) 
 ![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
 ![Figma](https://img.shields.io/badge/-Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Webflow](https://img.shields.io/badge/-Webflow-2b2b2b?style=flat-square&logo=webflow&logoColor=4353FF)
-
----
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/michaelvereb)
