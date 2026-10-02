@@ -31,7 +31,8 @@ https://www.michaelvereb.com
 
 Connect with Michael Vereb on [LinkedIn](https://www.michaelvereb.com/linkedin) or visit [michaelvereb.com](https://www.michaelvereb.com)
 
----
+
+
 
 ## Details
 ### Skills
